@@ -25,8 +25,7 @@ matrixA = np.array([[3, 2, 5],
 rank = np.linalg.matrix_rank(matrixA)
 
 print(rank)
-```
-```
+
 ## Output:
 
 ![alt text](<Screenshot 2026-05-29 230500.png>)
